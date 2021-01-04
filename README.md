@@ -1,8 +1,7 @@
 
 # Notes
 
-Aplicação simples de notas em REACT 16.3.2
-  
+Aplicação simples de notas em REACT 16.3.2  
 
 ## Dependências
 - node.js
